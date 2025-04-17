@@ -11,5 +11,5 @@ This repository demonstrates how to use custom Robot Framework keywords in Pytho
 
 ## Setup
 ```bash
-pip install -r requirements.txt
-robot tests/CustomerLogin.robot
+pip3 install -r robot-ucr-login/requirements.txt
+robot robot-ucr-login/tests/CustomerLogin.robot
